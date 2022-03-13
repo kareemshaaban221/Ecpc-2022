@@ -1,10 +1,10 @@
 // problem function import
 // #include "example.cpp"
 
-#include "5-Beautiful-Matrix.cpp"
+#include "10-Magnets.cpp"
 
 int main () {
 
-    return BeautifulMatrix();
+    return Magnets();
 
 }
