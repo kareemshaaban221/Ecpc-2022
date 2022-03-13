@@ -1,4 +1,4 @@
-#include "helperFunctions.cpp"
+#include "../helperFunctions.cpp"
 
 bool Word () {
 
