@@ -1,10 +1,10 @@
 //! problem function import
 //! #include "example.cpp"
 
-#include "day 4/20-Die-Roll.cpp"
+#include "day 5/25-Way-Too-Long-Words.cpp"
 
 int main () {
 
-    return DieRoll();
+    return WayTooLongWords();
 
 }
